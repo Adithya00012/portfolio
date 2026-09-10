@@ -75,6 +75,14 @@ export const projects: Project[] = [
     live: "https://civicfix.k-adithyaadithya1432.workers.dev",
     github: "https://github.com/Adithya00012/civicfix"
   },
+    {
+    title: "CareQueue — Privacy-Aware Clinic Queue and Follow-Up System",
+    description:
+      "Full-stack clinic management platform replacing paper and spreadsheet workflows with digital appointment booking, token-based queue management, and follow-up tracking. Serves four roles — patients, doctors, receptionists, admins — each with permission-scoped dashboards. Includes an AI assistant that answers administrative questions via RAG, explicitly restricted from giving medical advice.",
+    stack: ["React", "TypeScript", "Node.js", "PostgreSQL", "pgvector", "BullMQ", "RAG"],
+    live: "https://carequeue.k-adithyaadithya1432.workers.dev",
+    github: "https://github.com/Adithya00012/carequeue"
+  },
   {
     title: "Codebase Q&A — AI-Powered RAG Assistant",
     description:
